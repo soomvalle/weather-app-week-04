@@ -1,0 +1,8 @@
+.forecast {
+  margin: 48px auto;
+  text-align: center;
+}
+
+.col-2 {
+  min-width: 20%;
+}
